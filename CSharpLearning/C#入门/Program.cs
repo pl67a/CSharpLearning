@@ -28,6 +28,8 @@
             Console.WriteLine("*        *");
             Console.WriteLine("**********");
 
+            decimal a = 1.23m;
+            Console.WriteLine("decimal = " + a);
         }
     }
 }
